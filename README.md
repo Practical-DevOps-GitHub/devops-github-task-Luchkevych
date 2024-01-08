@@ -2,10 +2,11 @@
 # Task on GitHub Topic
 
 1. Add user `softservedata` to this repository.
+2. 
 
-2. Create branch `develop` as default branch.
+3. Create branch `develop` as default branch.
 
-3. Protect branches `main` and `develop` with these rules:
+4. Protect branches `main` and `develop` with these rules:
 - user can't merge to both branches without pull request
 - allowed to merge to `develop` branch only if we have 2 approvals
 - merge to `main` branch allowed if only owner approved PR
